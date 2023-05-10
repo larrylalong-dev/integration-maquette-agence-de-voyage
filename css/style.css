@@ -1,6 +1,6 @@
 body {
     max-width: 1440px;
-    margin: 0px;
+    margin: auto;
     /* Font utilisé par défaut */
     font-family: 'Raleway', sans-serif;
     font-style: normal;
@@ -806,7 +806,7 @@ footer ul {
     }
 
     nav li {
-        border-bottom: 3px solid transparent;
+        border-bottom: 3px solid #0000000d;
     }
 
     nav li:hover {
